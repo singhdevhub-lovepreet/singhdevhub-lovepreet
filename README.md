@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lovepreet Singh
 - 👀 I make content on Applied CS, Backend and ML/AI
 - 📫 Reach me on X:- https://x.com/SinghDevHub
-- ⚡ Rightnow we are cooking at:- https://www.youtube.com/@SinghDevHub
-
+- ⚡ We build projects in public at:- https://www.youtube.com/@SinghDevHub
+- 🔗 Blogs that comes out when I mess with kernels, maths etc:- https://singhdevhub.bearblog.dev/
 👋 See you Soon...
 
 <!---
